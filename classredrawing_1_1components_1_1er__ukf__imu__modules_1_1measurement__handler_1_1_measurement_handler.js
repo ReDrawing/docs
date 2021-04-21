@@ -1,0 +1,25 @@
+var classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler =
+[
+    [ "__init__", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_aa43d8466916220c8a444c70cfa44b377.html#aa43d8466916220c8a444c70cfa44b377", null ],
+    [ "compute", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a9afecdaee2152f31219ac71148d1e244.html#a9afecdaee2152f31219ac71148d1e244", null ],
+    [ "computeReference", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a427021a6b70ff7880543089ed6185607.html#a427021a6b70ff7880543089ed6185607", null ],
+    [ "getErrorMeasurement", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a90408a54b9d2cbf3db6c924793d5b772.html#a90408a54b9d2cbf3db6c924793d5b772", null ],
+    [ "getReference", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a16480de653d7e127298717ebf4530739.html#a16480de653d7e127298717ebf4530739", null ],
+    [ "setAccelRead", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a7f6b056c73f09eaa94b29ef7a2b9d626.html#a7f6b056c73f09eaa94b29ef7a2b9d626", null ],
+    [ "setGravity", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_aae4ce668f31c25c4794978927a90ab9b.html#aae4ce668f31c25c4794978927a90ab9b", null ],
+    [ "setInclination", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a22200c0a076865710c2e3eb9273fef8f.html#a22200c0a076865710c2e3eb9273fef8f", null ],
+    [ "setMagneticIntensity", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a3e623028300b760a868cd2104c9b4454.html#a3e623028300b760a868cd2104c9b4454", null ],
+    [ "setMagRead", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a192b2cae250f010eff807d9508cf2166.html#a192b2cae250f010eff807d9508cf2166", null ],
+    [ "setTheta", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a3a1e636c8162a1b52a5bcfafc14684e7.html#a3a1e636c8162a1b52a5bcfafc14684e7", null ],
+    [ "accel", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_af62cf1454703b12de967448db6507f9a.html#af62cf1454703b12de967448db6507f9a", null ],
+    [ "calculated", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_ae0f8524562412bbd2cb0c6df8ce625f0.html#ae0f8524562412bbd2cb0c6df8ce625f0", null ],
+    [ "correctedTheta", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_ad1f342213598ba59d02539e6a258c943.html#ad1f342213598ba59d02539e6a258c943", null ],
+    [ "gravity", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a37c330998183b83ab48f3d8ac9aee807.html#a37c330998183b83ab48f3d8ac9aee807", null ],
+    [ "inclination", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_aa0d2d35cfd6a3e9af6db9666ebaa521d.html#aa0d2d35cfd6a3e9af6db9666ebaa521d", null ],
+    [ "mag", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a029e68f1298aed5223dc91b6ae7cf255.html#a029e68f1298aed5223dc91b6ae7cf255", null ],
+    [ "magneticIntensity", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a88d56d43793c171b2e7d6d081bfb6814.html#a88d56d43793c171b2e7d6d081bfb6814", null ],
+    [ "measurement", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a8f1e33c8faf7427bbc6e7589ad28aeb0.html#a8f1e33c8faf7427bbc6e7589ad28aeb0", null ],
+    [ "r", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_ab2e9c0faa26e267010340feddb1940db.html#ab2e9c0faa26e267010340feddb1940db", null ],
+    [ "referenceOrientation", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_aee8b5df5b469d61522f00240c269dacf.html#aee8b5df5b469d61522f00240c269dacf", null ],
+    [ "weight", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_a79988e432f07b5cc1b1f70f8d81b33bf.html#a79988e432f07b5cc1b1f70f8d81b33bf", null ]
+];

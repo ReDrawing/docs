@@ -1,0 +1,11 @@
+var classredrawing_1_1components_1_1er__ukf__imu__modules_1_1error__compensation_1_1_gyro_error_compensation =
+[
+    [ "__init__", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1error__compensation_1_1_gyro_error_compensation_a6e41971b447171914de1751a0272d486.html#a6e41971b447171914de1751a0272d486", null ],
+    [ "getCorrectedOmega", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1error__compensation_1_1_gyro_error_compensation_a96d475960cb2a7d265a46fb9e596bff4.html#a96d475960cb2a7d265a46fb9e596bff4", null ],
+    [ "setMeasuredOmega", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1error__compensation_1_1_gyro_error_compensation_aec929d524441eaed66243055966cf1cf.html#aec929d524441eaed66243055966cf1cf", null ],
+    [ "setPredictedOmegaError", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1error__compensation_1_1_gyro_error_compensation_a9ba19f00c06e616bf6feef8770d916d0.html#a9ba19f00c06e616bf6feef8770d916d0", null ],
+    [ "calculate", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1error__compensation_1_1_gyro_error_compensation_a7ed18a80336c1b3a35966966ae71aecf.html#a7ed18a80336c1b3a35966966ae71aecf", null ],
+    [ "correctedOmega", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1error__compensation_1_1_gyro_error_compensation_a19552b9147699229d9653ff657200d87.html#a19552b9147699229d9653ff657200d87", null ],
+    [ "measuredOmega", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1error__compensation_1_1_gyro_error_compensation_a15d77790993b735e9b340a2a169a144c.html#a15d77790993b735e9b340a2a169a144c", null ],
+    [ "predictedOmegaError", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1error__compensation_1_1_gyro_error_compensation_a664ae7a9ab311227499d4ae3b4c614e2.html#a664ae7a9ab311227499d4ae3b4c614e2", null ]
+];

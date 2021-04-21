@@ -1,0 +1,10 @@
+<map id="redrawing.components.stage.Stage" name="redrawing.components.stage.Stage">
+<area shape="rect" id="node1" title=" " alt="" coords="103,169,295,211"/>
+<area shape="rect" id="node3" href="$classredrawing_1_1components_1_1android_1_1_camera_receiver.html" title=" " alt="" coords="347,5,550,47"/>
+<area shape="rect" id="node4" href="$classredrawing_1_1components_1_1android_1_1_i_m_u_receiver.html" title=" " alt="" coords="347,71,550,112"/>
+<area shape="rect" id="node5" href="$classredrawing_1_1components_1_1er__ukf__imu_1_1_u_k_f___i_m_u.html" title=" " alt="" coords="365,136,532,177"/>
+<area shape="rect" id="node6" href="$classredrawing_1_1components_1_1hand__gesture_1_1_hand_gesture.html" title="Detects hand gestures." alt="" coords="357,201,541,243"/>
+<area shape="rect" id="node7" href="$classredrawing_1_1components_1_1oak_1_1_o_a_k___stage.html" title=" " alt="" coords="358,267,539,308"/>
+<area shape="rect" id="node8" href="$classredrawing_1_1components_1_1openpose__light_1_1_open_pose___light.html" title=" " alt="" coords="343,332,555,373"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,177,55,203"/>
+</map>
