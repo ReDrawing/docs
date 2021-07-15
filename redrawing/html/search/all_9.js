@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['image_116',['Image',['../classredrawing_1_1data__interfaces_1_1image_1_1_image.html',1,'redrawing.data_interfaces.image.Image'],['../classredrawing_1_1data__interfaces_1_1image_1_1_image_a4aa19fd12abeb3e41c64353c60c4201c.html#a4aa19fd12abeb3e41c64353c60c4201c',1,'redrawing.data_interfaces.image.Image.image(self)'],['../classredrawing_1_1data__interfaces_1_1image_1_1_image_a0e4bc3cf08d54afa6751535ce7cc7c57.html#a0e4bc3cf08d54afa6751535ce7cc7c57',1,'redrawing.data_interfaces.image.Image.image(self, image)']]],
+  ['image_2epy_117',['image.py',['../image_8py.html',1,'']]],
+  ['imageformat_118',['imageFormat',['../classredrawing_1_1ai__models_1_1_lightweight_open_pose_1_1_lightweight_open_pose_a7816baa5909367b25f4f0c1d9408b86c.html#a7816baa5909367b25f4f0c1d9408b86c',1,'redrawing::ai_models::LightweightOpenPose::LightweightOpenPose']]],
+  ['imu_119',['IMU',['../classredrawing_1_1data__interfaces_1_1imu_1_1_i_m_u.html',1,'redrawing::data_interfaces::imu']]],
+  ['imu_2epy_120',['imu.py',['../imu_8py.html',1,'']]],
+  ['imureceiver_121',['IMUReceiver',['../classredrawing_1_1components_1_1android_1_1_i_m_u_receiver.html',1,'redrawing::components::android']]],
+  ['inclination_122',['inclination',['../classredrawing_1_1components_1_1er__ukf__imu__modules_1_1measurement__handler_1_1_measurement_handler_aa0d2d35cfd6a3e9af6db9666ebaa521d.html#aa0d2d35cfd6a3e9af6db9666ebaa521d',1,'redrawing::components::er_ukf_imu_modules::measurement_handler::MeasurementHandler']]],
+  ['inference_123',['inference',['../classredrawing_1_1ai__models_1_1_lightweight_open_pose_1_1_lightweight_open_pose_a958b74f476481601ef76dacdcbaf8d98.html#a958b74f476481601ef76dacdcbaf8d98',1,'redrawing::ai_models::LightweightOpenPose::LightweightOpenPose']]],
+  ['input_5fdict_124',['input_dict',['../classredrawing_1_1components_1_1stage_1_1_stage_a30409e2616ec50fd116f437166e9820d.html#a30409e2616ec50fd116f437166e9820d',1,'redrawing::components::stage::Stage']]],
+  ['input_5fqueue_125',['input_queue',['../classredrawing_1_1components_1_1stage_1_1_stage_a73d7c07478200a823cd38daac4fd5046.html#a73d7c07478200a823cd38daac4fd5046',1,'redrawing::components::stage::Stage']]],
+  ['input_5fsize_126',['input_size',['../classredrawing_1_1ai__models_1_1_o_a_k__hand__pose_1_1_o_a_k___handpose_a6f0731cdbc25edb390c506e6df232a79.html#a6f0731cdbc25edb390c506e6df232a79',1,'redrawing.ai_models.OAK_hand_pose.OAK_Handpose.input_size()'],['../classredrawing_1_1components_1_1oak__substage_1_1_o_a_k___substage_a3a67f64db6277c548f8de09b25c72da4.html#a3a67f64db6277c548f8de09b25c72da4',1,'redrawing.components.oak_substage.OAK_Substage.input_size()']]],
+  ['input_5fvalues_127',['input_values',['../classredrawing_1_1components_1_1stage_1_1_stage_a04f802e2fa2bc74b3e8952e212ce3642.html#a04f802e2fa2bc74b3e8952e212ce3642',1,'redrawing::components::stage::Stage']]],
+  ['insert_128',['insert',['../classredrawing_1_1components_1_1pipeline_1_1_queue_a36b464b130fc85ff963704eb68cdfad8.html#a36b464b130fc85ff963704eb68cdfad8',1,'redrawing.components.pipeline.Queue.insert()'],['../classredrawing_1_1components_1_1pipeline_1_1_simple_queue_a5f158f442aa5c9e56bea42d2d65707da.html#a5f158f442aa5c9e56bea42d2d65707da',1,'redrawing.components.pipeline.SimpleQueue.insert()'],['../classredrawing_1_1components_1_1pipeline_1_1_process_queue_a8a72bdaaf88b1c52cc53f520a8a18672.html#a8a72bdaaf88b1c52cc53f520a8a18672',1,'redrawing.components.pipeline.ProcessQueue.insert()']]],
+  ['insert_5fstage_129',['insert_stage',['../classredrawing_1_1components_1_1pipeline_1_1_pipeline_a4583a226060f2772d4d1842e7f2b11ee.html#a4583a226060f2772d4d1842e7f2b11ee',1,'redrawing::components::pipeline::Pipeline']]],
+  ['introduction_2emd_130',['Introduction.md',['../_introduction_8md.html',1,'']]],
+  ['ip_131',['ip',['../classredrawing_1_1communication_1_1udp_1_1_u_d_p___stage_ad3871e032a6c27ecc39ffb8060abf98f.html#ad3871e032a6c27ecc39ffb8060abf98f',1,'redrawing::communication::udp::UDP_Stage']]],
+  ['is_5frotation_132',['is_rotation',['../namespaceredrawing_1_1data__interfaces_1_1frame_ad1961d186623fb16a6c47b3d7e48c3b0.html#ad1961d186623fb16a6c47b3d7e48c3b0',1,'redrawing::data_interfaces::frame']]],
+  ['introduction_133',['Introduction',['../md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__introduction.html',1,'']]]
+];

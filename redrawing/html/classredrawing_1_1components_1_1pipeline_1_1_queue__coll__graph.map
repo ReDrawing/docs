@@ -1,0 +1,4 @@
+<map id="redrawing.components.pipeline.Queue" name="redrawing.components.pipeline.Queue">
+<area shape="rect" id="node1" title="Generic queue for communication between stages." alt="" coords="5,80,209,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="83,5,132,32"/>
+</map>

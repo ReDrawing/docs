@@ -1,0 +1,7 @@
+<map id="redrawing.data_interfaces.bodypose.BodyPose" name="redrawing.data_interfaces.bodypose.BodyPose">
+<area shape="rect" id="node1" title="Data class for body poses messages." alt="" coords="349,39,583,80"/>
+<area shape="rect" id="node4" href="$classredrawing_1_1data__interfaces_1_1bodypose_1_1_body_accel.html" title="This class stores the acceleration of a body pose." alt="" coords="631,5,864,47"/>
+<area shape="rect" id="node5" href="$classredrawing_1_1data__interfaces_1_1bodypose_1_1_body_vel.html" title="This class stores the velocity of a body pose." alt="" coords="631,71,864,112"/>
+<area shape="rect" id="node2" href="$classredrawing_1_1data__interfaces_1_1data__class_1_1_data.html" title="Base class for data messages classes." alt="" coords="103,39,301,80"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,46,55,73"/>
+</map>

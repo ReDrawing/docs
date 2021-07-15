@@ -1,0 +1,5 @@
+<map id="redrawing.components.android.IMUReceiver" name="redrawing.components.android.IMUReceiver">
+<area shape="rect" id="node1" title="Receives data from a IMU sensor in a smartphone." alt="" coords="5,169,208,211"/>
+<area shape="rect" id="node2" href="$classredrawing_1_1components_1_1stage_1_1_stage.html" title="Base class for create a stage." alt="" coords="11,80,203,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="82,5,131,32"/>
+</map>

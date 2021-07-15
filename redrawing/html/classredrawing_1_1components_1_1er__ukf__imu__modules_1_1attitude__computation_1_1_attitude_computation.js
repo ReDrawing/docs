@@ -1,0 +1,19 @@
+var classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation =
+[
+    [ "__init__", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_a48daabbe8078d6a52304c466ed817fc7.html#a48daabbe8078d6a52304c466ed817fc7", null ],
+    [ "computeAll", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_a157ac606a786b634b72c6976876b7f9e.html#a157ac606a786b634b72c6976876b7f9e", null ],
+    [ "computeDTheta2Dt2", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_a09ee68c1e2d79fe77841b8fbe6b92baf.html#a09ee68c1e2d79fe77841b8fbe6b92baf", null ],
+    [ "computeDThetaDt", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_a82b759e975f74571d1e50c7044fe6178.html#a82b759e975f74571d1e50c7044fe6178", null ],
+    [ "computeTheta", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_a2612c96b635ba2e5a0f9c482fa605348.html#a2612c96b635ba2e5a0f9c482fa605348", null ],
+    [ "computevB", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_a285c81528ac390f95966f6bd5c3c5115.html#a285c81528ac390f95966f6bd5c3c5115", null ],
+    [ "computeWb", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_a73a3d1753964ab501d2f72462bab6952.html#a73a3d1753964ab501d2f72462bab6952", null ],
+    [ "correctTheta", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_a6c83492359ea3d03617406767dda668c.html#a6c83492359ea3d03617406767dda668c", null ],
+    [ "getTheta", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_aa68c19d303eb90bc82d65c4f1f0d34a2.html#aa68c19d303eb90bc82d65c4f1f0d34a2", null ],
+    [ "setOmega", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_a7a1b88786f5919b154348bc4228f7641.html#a7a1b88786f5919b154348bc4228f7641", null ],
+    [ "setThetaError", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_aa258a6fdd05de76dbd04eb692f3271ca.html#aa258a6fdd05de76dbd04eb692f3271ca", null ],
+    [ "calculated", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_ae40e308b1092c3b5df9387bc8c5d2dfd.html#ae40e308b1092c3b5df9387bc8c5d2dfd", null ],
+    [ "computedTheta", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_a337a2cec492ab929e43be9438d1f0294.html#a337a2cec492ab929e43be9438d1f0294", null ],
+    [ "correctedOmega", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_aaf93762adcb72a538b0ad56dfd33545f.html#aaf93762adcb72a538b0ad56dfd33545f", null ],
+    [ "correctedTheta", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_a01f7d998be7f60654cae89ae278f6e73.html#a01f7d998be7f60654cae89ae278f6e73", null ],
+    [ "estimateThetaError", "classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation_a5233a2bb148594f9c1c5c38edc9b6f87.html#a5233a2bb148594f9c1c5c38edc9b6f87", null ]
+];

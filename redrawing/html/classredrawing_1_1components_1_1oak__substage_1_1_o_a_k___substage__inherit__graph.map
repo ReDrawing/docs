@@ -1,0 +1,8 @@
+<map id="redrawing.components.oak_substage.OAK_Substage" name="redrawing.components.oak_substage.OAK_Substage">
+<area shape="rect" id="node1" title="Base class for creating OAK substages." alt="" coords="343,71,520,112"/>
+<area shape="rect" id="node4" href="$classredrawing_1_1ai__models_1_1_o_a_k__blazepose_1_1_o_a_k___blazepose.html" title=" " alt="" coords="575,5,763,47"/>
+<area shape="rect" id="node5" href="$classredrawing_1_1ai__models_1_1_o_a_k__hand__pose_1_1_o_a_k___handpose.html" title="Handles the palm detector for OAK." alt="" coords="575,71,764,112"/>
+<area shape="rect" id="node6" href="$classredrawing_1_1ai__models_1_1_o_a_k__human__pose_1_1_o_a_k___body_pose.html" title=" " alt="" coords="568,136,771,177"/>
+<area shape="rect" id="node2" href="$classredrawing_1_1components_1_1stage_1_1_stage.html" title="Base class for create a stage." alt="" coords="103,100,295,141"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,78,55,105"/>
+</map>

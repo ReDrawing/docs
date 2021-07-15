@@ -1,0 +1,14 @@
+<map id="redrawing.data_interfaces.data_class.Data" name="redrawing.data_interfaces.data_class.Data">
+<area shape="rect" id="node1" title="Base class for data messages classes." alt="" coords="103,268,301,309"/>
+<area shape="rect" id="node3" href="$classredrawing_1_1data__interfaces_1_1bodypose_1_1_body_pose.html" title="Data class for body poses messages." alt="" coords="349,39,583,80"/>
+<area shape="rect" id="node6" href="$classredrawing_1_1data__interfaces_1_1depth__map_1_1_depth___map.html" title="Data class for depth maps." alt="" coords="363,104,569,145"/>
+<area shape="rect" id="node7" href="$classredrawing_1_1data__interfaces_1_1frame_1_1_frame___t_f.html" title="This class represents a transform between two frames." alt="" coords="361,169,571,211"/>
+<area shape="rect" id="node8" href="$classredrawing_1_1data__interfaces_1_1gesture_1_1_gesture.html" title="Stores a gesture detection." alt="" coords="356,235,576,276"/>
+<area shape="rect" id="node9" href="$classredrawing_1_1data__interfaces_1_1image_1_1_image.html" title="Data class for image messages." alt="" coords="360,300,572,341"/>
+<area shape="rect" id="node10" href="$classredrawing_1_1data__interfaces_1_1imu_1_1_i_m_u.html" title=" " alt="" coords="355,366,577,393"/>
+<area shape="rect" id="node11" href="$classredrawing_1_1data__interfaces_1_1imu_1_1_orientation.html" title=" " alt="" coords="367,417,565,459"/>
+<area shape="rect" id="node12" href="$classredrawing_1_1data__interfaces_1_1object__detection_1_1_object_detection.html" title="Stores data from a object detection model." alt="" coords="362,483,570,524"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,275,55,302"/>
+<area shape="rect" id="node4" href="$classredrawing_1_1data__interfaces_1_1bodypose_1_1_body_accel.html" title="This class stores the acceleration of a body pose." alt="" coords="631,5,864,47"/>
+<area shape="rect" id="node5" href="$classredrawing_1_1data__interfaces_1_1bodypose_1_1_body_vel.html" title="This class stores the velocity of a body pose." alt="" coords="631,71,864,112"/>
+</map>

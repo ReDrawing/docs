@@ -1,0 +1,5 @@
+<map id="redrawing.components.er_ukf_imu.UKF_IMU" name="redrawing.components.er_ukf_imu.UKF_IMU">
+<area shape="rect" id="node1" title="Unscented Kalman Filter Stage for orientation estimation using IMU sensor." alt="" coords="18,169,185,211"/>
+<area shape="rect" id="node2" href="$classredrawing_1_1components_1_1stage_1_1_stage.html" title="Base class for create a stage." alt="" coords="5,80,197,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="77,5,126,32"/>
+</map>

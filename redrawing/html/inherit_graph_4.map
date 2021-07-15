@@ -1,0 +1,36 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,321,55,348"/>
+<area shape="rect" id="node2" href="$classredrawing_1_1components_1_1er__ukf__imu__modules_1_1ukf_1_1_u_k_f.html" title=" " alt="" coords="114,50,295,91"/>
+<area shape="rect" id="node4" href="$classredrawing_1_1components_1_1oak__substage_1_1_o_a_k___substage.html" title="Base class for creating OAK substages." alt="" coords="383,347,560,389"/>
+<area shape="rect" id="node8" href="$classredrawing_1_1components_1_1pipeline_1_1_pipeline.html" title="Generic pipeline of stages." alt="" coords="103,151,307,193"/>
+<area shape="rect" id="node11" href="$classredrawing_1_1components_1_1pipeline_1_1_queue.html" title="Generic queue for communication between stages." alt="" coords="103,282,307,323"/>
+<area shape="rect" id="node14" href="$classredrawing_1_1components_1_1stage_1_1_stage.html" title="Base class for create a stage." alt="" coords="109,609,301,650"/>
+<area shape="rect" id="node24" href="$classredrawing_1_1data__interfaces_1_1data__class_1_1_data.html" title="Base class for data messages classes." alt="" coords="105,1197,304,1238"/>
+<area shape="rect" id="node3" href="$classredrawing_1_1components_1_1er__ukf__imu__modules_1_1er__ukf__imu_1_1_er_ukf_imu.html" title=" " alt="" coords="387,5,556,61"/>
+<area shape="rect" id="node5" href="$classredrawing_1_1ai__models_1_1_o_a_k__blazepose_1_1_o_a_k___blazepose.html" title=" " alt="" coords="659,413,847,454"/>
+<area shape="rect" id="node6" href="$classredrawing_1_1ai__models_1_1_o_a_k__hand__pose_1_1_o_a_k___handpose.html" title="Handles the palm detector for OAK." alt="" coords="658,282,847,323"/>
+<area shape="rect" id="node7" href="$classredrawing_1_1ai__models_1_1_o_a_k__human__pose_1_1_o_a_k___body_pose.html" title=" " alt="" coords="651,347,854,389"/>
+<area shape="rect" id="node9" href="$classredrawing_1_1components_1_1pipeline_1_1_multi_process___pipeline.html" title="Pipeline of stages runned parallely on multiple process." alt="" coords="369,151,573,193"/>
+<area shape="rect" id="node10" href="$classredrawing_1_1components_1_1pipeline_1_1_single_process___pipeline.html" title="Pipeline of stages to be runned on a single process." alt="" coords="369,86,573,127"/>
+<area shape="rect" id="node12" href="$classredrawing_1_1components_1_1pipeline_1_1_process_queue.html" title="Queue for using in multiprocessing." alt="" coords="369,282,573,323"/>
+<area shape="rect" id="node13" href="$classredrawing_1_1components_1_1pipeline_1_1_simple_queue.html" title="A simple queue." alt="" coords="369,217,573,258"/>
+<area shape="rect" id="node15" href="$classredrawing_1_1ai__models_1_1_lightweight_open_pose_1_1_lightweight_open_pose.html" title=" " alt="" coords="365,739,578,781"/>
+<area shape="rect" id="node16" href="$classredrawing_1_1communication_1_1udp_1_1_u_d_p___stage.html" title="Stage for exchange data using UDP protocol." alt="" coords="372,805,571,846"/>
+<area shape="rect" id="node17" href="$classredrawing_1_1components_1_1android_1_1_camera_receiver.html" title="Receives frames from a IP camera." alt="" coords="370,870,573,911"/>
+<area shape="rect" id="node18" href="$classredrawing_1_1components_1_1android_1_1_i_m_u_receiver.html" title="Receives data from a IMU sensor in a smartphone." alt="" coords="370,935,573,977"/>
+<area shape="rect" id="node19" href="$classredrawing_1_1components_1_1debug_1_1_debug___stage.html" title="Stage for debugging, print messages in setup and process." alt="" coords="374,413,569,454"/>
+<area shape="rect" id="node20" href="$classredrawing_1_1components_1_1er__ukf__imu_1_1_u_k_f___i_m_u.html" title="Unscented Kalman Filter Stage for orientation estimation using IMU sensor." alt="" coords="388,478,555,519"/>
+<area shape="rect" id="node21" href="$classredrawing_1_1components_1_1oak_1_1_o_a_k___stage.html" title="Handles a OAK camera." alt="" coords="381,543,562,585"/>
+<area shape="rect" id="node22" href="$classredrawing_1_1components_1_1pc__viewer_1_1_p_c_r___viewer.html" title="Visualizer for image, depth and body pose data." alt="" coords="386,609,557,650"/>
+<area shape="rect" id="node23" href="$classredrawing_1_1components_1_1user_1_1_user___manager___stage.html" title="Handle the user data incoming from other stages." alt="" coords="379,674,564,715"/>
+<area shape="rect" id="node25" href="$classredrawing_1_1data__interfaces_1_1bodypose_1_1_body_pose.html" title="Data class for body poses messages." alt="" coords="355,1445,588,1486"/>
+<area shape="rect" id="node28" href="$classredrawing_1_1data__interfaces_1_1depth__map_1_1_depth___map.html" title="Data class for depth maps." alt="" coords="369,1001,574,1042"/>
+<area shape="rect" id="node29" href="$classredrawing_1_1data__interfaces_1_1frame_1_1_frame___t_f.html" title="This class represents a transform between two frames." alt="" coords="367,1066,576,1107"/>
+<area shape="rect" id="node30" href="$classredrawing_1_1data__interfaces_1_1gesture_1_1_gesture.html" title="Stores a gesture detection." alt="" coords="361,1131,581,1173"/>
+<area shape="rect" id="node31" href="$classredrawing_1_1data__interfaces_1_1image_1_1_image.html" title="Data class for image messages." alt="" coords="365,1197,577,1238"/>
+<area shape="rect" id="node32" href="$classredrawing_1_1data__interfaces_1_1imu_1_1_i_m_u.html" title=" " alt="" coords="361,1263,582,1289"/>
+<area shape="rect" id="node33" href="$classredrawing_1_1data__interfaces_1_1imu_1_1_orientation.html" title=" " alt="" coords="372,1314,571,1355"/>
+<area shape="rect" id="node34" href="$classredrawing_1_1data__interfaces_1_1object__detection_1_1_object_detection.html" title="Stores data from a object detection model." alt="" coords="367,1379,575,1421"/>
+<area shape="rect" id="node26" href="$classredrawing_1_1data__interfaces_1_1bodypose_1_1_body_accel.html" title="This class stores the acceleration of a body pose." alt="" coords="636,1477,869,1518"/>
+<area shape="rect" id="node27" href="$classredrawing_1_1data__interfaces_1_1bodypose_1_1_body_vel.html" title="This class stores the velocity of a body pose." alt="" coords="636,1411,869,1453"/>
+</map>

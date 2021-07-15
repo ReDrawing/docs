@@ -1,0 +1,6 @@
+<map id="redrawing.components.pipeline.Queue" name="redrawing.components.pipeline.Queue">
+<area shape="rect" id="node1" title="Generic queue for communication between stages." alt="" coords="103,39,307,80"/>
+<area shape="rect" id="node3" href="$classredrawing_1_1components_1_1pipeline_1_1_process_queue.html" title="Queue for using in multiprocessing." alt="" coords="355,5,559,47"/>
+<area shape="rect" id="node4" href="$classredrawing_1_1components_1_1pipeline_1_1_simple_queue.html" title="A simple queue." alt="" coords="355,71,559,112"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,46,55,73"/>
+</map>
