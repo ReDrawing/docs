@@ -89,27 +89,27 @@ $(document).ready(function(){initNavTree('md__c___users_eltsu__documents__git_hu
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p>It is very useful to record the messages from a stage, and be able to reproduce this messages later. For this, the redrawing package has two stages, Record and Play</p>
-<h1><a class="anchor" id="autotoc_md13"></a>
+<h1><a class="anchor" id="autotoc_md12"></a>
 Recording messages</h1>
 <p>The "Record" stage is able to record the messages from various channels.</p>
-<h2><a class="anchor" id="autotoc_md14"></a>
+<h2><a class="anchor" id="autotoc_md13"></a>
 Configuration</h2>
 <p>The configuration dictionary have the following propertys:</p>
 <table class="markdownTable">
 <tr class="markdownTableHead">
 <th class="markdownTableHeadNone">Key  </th><th class="markdownTableHeadNone">Value Type  </th><th class="markdownTableHeadNone">Use  </th><th class="markdownTableHeadNone">Default  </th><th class="markdownTableHeadNone">Example   </th></tr>
 <tr class="markdownTableRowOdd">
-<td class="markdownTableBodyNone">file_name  </td><td class="markdownTableBodyNone">String  </td><td class="markdownTableBodyNone">Sets the name of the recorded file. Default create a file with the starting time in the name  </td><td class="markdownTableBodyNone">""  </td><td class="markdownTableBodyNone">"my_file"   </td></tr>
+<td class="markdownTableBodyNone">file_name  </td><td class="markdownTableBodyNone">String  </td><td class="markdownTableBodyNone">Sets the name of the recorded file. Default create a file with the starting time in the name  </td><td class="markdownTableBodyNone">"record"  </td><td class="markdownTableBodyNone">"my_file"   </td></tr>
 <tr class="markdownTableRowEven">
 <td class="markdownTableBodyNone">channels  </td><td class="markdownTableBodyNone">List[String]  </td><td class="markdownTableBodyNone">Input channels that will be recorded  </td><td class="markdownTableBodyNone">[]  </td><td class="markdownTableBodyNone">["channel_1","channel2"]   </td></tr>
 </table>
-<h2><a class="anchor" id="autotoc_md15"></a>
+<h2><a class="anchor" id="autotoc_md14"></a>
 Operation</h2>
 <p>The stage create input channels with the configuration dict, and stores the messages increasing time (time it's arrived at the stage since the epoch) in the file, using <a href="https://docs.python.org/3/library/pickle.html">pickle library</a> ==Ou outra que funcione melhor==</p>
-<h1><a class="anchor" id="autotoc_md16"></a>
+<h1><a class="anchor" id="autotoc_md15"></a>
 Playing messages</h1>
 <p>The "Play" stage is able to play pre-recorded messages using the "Record" stage.</p>
-<h2><a class="anchor" id="autotoc_md17"></a>
+<h2><a class="anchor" id="autotoc_md16"></a>
 Configuration</h2>
 <p>The configuration dictionary have the following propertys:</p>
 <table class="markdownTable">

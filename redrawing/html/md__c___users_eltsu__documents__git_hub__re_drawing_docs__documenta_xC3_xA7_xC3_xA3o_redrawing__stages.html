@@ -89,27 +89,27 @@ $(document).ready(function(){initNavTree('md__c___users_eltsu__documents__git_hu
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p>Stages are the basic processing units of the redrawing package. They receive data objects from input channels, processes them in the "process" method and output data in the output channels.</p>
-<h1><a class="anchor" id="autotoc_md18"></a>
+<h1><a class="anchor" id="autotoc_md17"></a>
 Creating a Stage</h1>
 <p>To create a stage, one should inherit the Stage base class. The super constructor must be called to properly configure the data channels.</p>
-<h2><a class="anchor" id="autotoc_md19"></a>
+<h2><a class="anchor" id="autotoc_md18"></a>
 process()</h2>
 <p>All the stage cyclical operations should be in this method. A typicall flow consists of getting the data in the input channels, process and send the output data to the output channels.</p>
-<h2><a class="anchor" id="autotoc_md20"></a>
+<h2><a class="anchor" id="autotoc_md19"></a>
 Configurations</h2>
 <p>The stages can have configurations that can be changed in it initialization, or using the <code>change_config</code> method. Each configuration must have a name.</p>
 <p>To set the default configurations for a stage, you must create a <code>configs_default</code> class dict attribute with the default values.</p>
 <p>On the initialization, it is possible to pass a changed configuration dict, with the values that must diverge from the default. Passing it to the super constructor allows to automatically change the object <code>_configs</code> attribute.</p>
 <p>If the <code>_config_lock</code> attribute is setted to <code>True</code>, all the configuration changes will be ignored. The default <code>setup()</code> automatically sets it to <code>True</code>.</p>
-<h2><a class="anchor" id="autotoc_md21"></a>
+<h2><a class="anchor" id="autotoc_md20"></a>
 Data channels</h2>
-<h3><a class="anchor" id="autotoc_md22"></a>
+<h3><a class="anchor" id="autotoc_md21"></a>
 Creation</h3>
 <p>To create a data channel, preferably in the constructor method, the <code>addInput</code> or <code>addOutput</code> method must be used. It receives the name of the channel and the data type. It's important to note that to create connections between channels, both channels must be created before connection time. The connection can be created when generating the pipeline, as described in (page not created yet).</p>
-<h3><a class="anchor" id="autotoc_md23"></a>
+<h3><a class="anchor" id="autotoc_md22"></a>
 Getting and sending messages</h3>
 <p>To get a message from a data channel, the method <code>_getInput("name_of_channel")</code> must be used. To send, use the method <code>_setOutput(outData, "name_of_channel")</code></p>
-<h2><a class="anchor" id="autotoc_md24"></a>
+<h2><a class="anchor" id="autotoc_md23"></a>
 Example</h2>
 <div class="fragment"><div class="line">class MyStage(Stage):</div>
 <div class="line">    configs_default = {&quot;config_name&quot;: default_value}</div>
@@ -133,14 +133,14 @@ Example</h2>
 </div><!-- fragment --><p><br  />
 <br  />
  </p>
-<h1><a class="anchor" id="autotoc_md25"></a>
+<h1><a class="anchor" id="autotoc_md24"></a>
 Substages and context</h1>
 <p>Substages are stages that can change the behavior of it superstages, or needs to use some data from the superstage that can't be pickable (serializable) or needs to be used at the right run time.</p>
 <p>They are defined at the exact same way of the other stages, but are associated with the superstage at the pipeline creation time. They can also use the <code>context</code> parameter of the <code>process(context)</code> method, a dictionary with shared data of the superstage. The content of the context data are described in each superstage class documentation.</p>
-<h2><a class="anchor" id="autotoc_md26"></a>
+<h2><a class="anchor" id="autotoc_md25"></a>
 setup()</h2>
 <p>The setup method of a substage is called before the superstage setup().</p>
-<h2><a class="anchor" id="autotoc_md27"></a>
+<h2><a class="anchor" id="autotoc_md26"></a>
 process(context)</h2>
 <p>The process method of a substage can be called before or after the superstage process(). The moment can be choosed when creating the substage-stage relation in the pipeline. </p>
 </div></div><!-- contents -->

@@ -9,8 +9,6 @@ var searchData=
   ['addoutput_11',['addOutput',['../classredrawing_1_1components_1_1stage_1_1_stage_a6ed752b2371615878838ba6f4793b7e6.html#a6ed752b2371615878838ba6f4793b7e6',1,'redrawing::components::stage::Stage']]],
   ['android_2epy_12',['android.py',['../android_8py.html',1,'']]],
   ['apply_5ftransformation_13',['apply_transformation',['../classredrawing_1_1data__interfaces_1_1bodypose_1_1_body_pose_a4a1f427697e199bae991c7db45881deb.html#a4a1f427697e199bae991c7db45881deb',1,'redrawing::data_interfaces::bodypose::BodyPose']]],
-  ['arquitetura_20para_20o_20estágio_20oak_2dd_2emd_14',['Arquitetura para o estágio OAK-D.md',['../_arquitetura_01para_01o_01est_xC3_xA1gio_01_o_a_k-_d_8md.html',1,'']]],
-  ['attitude_5fcomputation_2epy_15',['attitude_computation.py',['../attitude__computation_8py.html',1,'']]],
-  ['attitudecomputation_16',['AttitudeComputation',['../classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation.html',1,'redrawing.components.er_ukf_imu_modules.attitude_computation.AttitudeComputation'],['../classredrawing_1_1components_1_1er__ukf__imu_1_1_u_k_f___i_m_u_ab8dcd211bb1118769d6679c0fe77d570.html#ab8dcd211bb1118769d6679c0fe77d570',1,'redrawing.components.er_ukf_imu.UKF_IMU.attitudeComputation()']]],
-  ['arquitetura_20para_20o_20estágio_20oak_2dd_17',['Arquitetura para o estágio OAK-D',['../md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__4934cfa22d49a5bd65da4f929a23df36.html',1,'']]]
+  ['attitude_5fcomputation_2epy_14',['attitude_computation.py',['../attitude__computation_8py.html',1,'']]],
+  ['attitudecomputation_15',['AttitudeComputation',['../classredrawing_1_1components_1_1er__ukf__imu__modules_1_1attitude__computation_1_1_attitude_computation.html',1,'redrawing.components.er_ukf_imu_modules.attitude_computation.AttitudeComputation'],['../classredrawing_1_1components_1_1er__ukf__imu_1_1_u_k_f___i_m_u_ab8dcd211bb1118769d6679c0fe77d570.html#ab8dcd211bb1118769d6679c0fe77d570',1,'redrawing.components.er_ukf_imu.UKF_IMU.attitudeComputation()']]]
 ];

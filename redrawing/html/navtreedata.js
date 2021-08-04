@@ -25,49 +25,46 @@
 var NAVTREE =
 [
   [ "redrawing", "index.html", [
-    [ "Arquitetura para o estágio OAK-D", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__4934cfa22d49a5bd65da4f929a23df36.html", [
-      [ "Sequência de funcionamento:", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__4934cfa22d49a5bd65da4f929a23df36.html#autotoc_md0", null ]
-    ] ],
     [ "Introduction", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__introduction.html", [
-      [ "components", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__introduction.html#autotoc_md1", null ],
-      [ "data_interfaces", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__introduction.html#autotoc_md2", null ],
-      [ "communication", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__introduction.html#autotoc_md3", null ]
+      [ "components", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__introduction.html#autotoc_md0", null ],
+      [ "data_interfaces", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__introduction.html#autotoc_md1", null ],
+      [ "communication", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__introduction.html#autotoc_md2", null ]
     ] ],
     [ "OAK", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html", [
-      [ "Substage methods", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md4", [
-        [ "Instantiate other nodes: createNodes(self, pipeline) : dict", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md5", null ],
-        [ "Link: link(self, nodes, rgb_out, left_out, right_out, depth_out) : dict", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md6", null ],
-        [ "createOutputQueue(self, device) : dict", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md7", null ],
-        [ "createInputQueue(self, device) : dict", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md8", null ]
+      [ "Substage methods", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md3", [
+        [ "Instantiate other nodes: createNodes(self, pipeline) : dict", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md4", null ],
+        [ "Link: link(self, nodes, rgb_out, left_out, right_out, depth_out) : dict", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md5", null ],
+        [ "createOutputQueue(self, device) : dict", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md6", null ],
+        [ "createInputQueue(self, device) : dict", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md7", null ]
       ] ],
-      [ "Substage atributes", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md9", null ],
-      [ "Context and configs", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md10", null ],
-      [ "Other OAK_Stage methods", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md11", [
-        [ "\"get3DPosition(point_x, point_y, size)\"", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md12", null ]
+      [ "Substage atributes", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md8", null ],
+      [ "Context and configs", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md9", null ],
+      [ "Other OAK_Stage methods", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md10", [
+        [ "\"get3DPosition(point_x, point_y, size)\"", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__o_a_k.html#autotoc_md11", null ]
       ] ]
     ] ],
     [ "Recording messages", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__recording_messages.html", [
-      [ "Recording messages", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__recording_messages.html#autotoc_md13", [
-        [ "Configuration", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__recording_messages.html#autotoc_md14", null ],
-        [ "Operation", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__recording_messages.html#autotoc_md15", null ]
+      [ "Recording messages", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__recording_messages.html#autotoc_md12", [
+        [ "Configuration", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__recording_messages.html#autotoc_md13", null ],
+        [ "Operation", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__recording_messages.html#autotoc_md14", null ]
       ] ],
-      [ "Playing messages", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__recording_messages.html#autotoc_md16", [
-        [ "Configuration", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__recording_messages.html#autotoc_md17", null ]
+      [ "Playing messages", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__recording_messages.html#autotoc_md15", [
+        [ "Configuration", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__recording_messages.html#autotoc_md16", null ]
       ] ]
     ] ],
     [ "Stages", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html", [
-      [ "Creating a Stage", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md18", [
-        [ "process()", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md19", null ],
-        [ "Configurations", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md20", null ],
-        [ "Data channels", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md21", [
-          [ "Creation", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md22", null ],
-          [ "Getting and sending messages", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md23", null ]
+      [ "Creating a Stage", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md17", [
+        [ "process()", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md18", null ],
+        [ "Configurations", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md19", null ],
+        [ "Data channels", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md20", [
+          [ "Creation", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md21", null ],
+          [ "Getting and sending messages", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md22", null ]
         ] ],
-        [ "Example", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md24", null ]
+        [ "Example", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md23", null ]
       ] ],
-      [ "Substages and context", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md25", [
-        [ "setup()", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md26", null ],
-        [ "process(context)", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md27", null ]
+      [ "Substages and context", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md24", [
+        [ "setup()", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md25", null ],
+        [ "process(context)", "md__c___users_eltsu__documents__git_hub__re_drawing_docs__documenta_xC3_xA7_xC3_xA3o_redrawing__stages.html#autotoc_md26", null ]
       ] ]
     ] ],
     [ "Todo List", "todo.html", null ],
@@ -99,7 +96,7 @@ var NAVTREEINDEX =
 [
 "____init_____8py.html",
 "classredrawing_1_1components_1_1pipeline_1_1_simple_queue_ac4cddbd9a168c446a16004acb24d862d.html#ac4cddbd9a168c446a16004acb24d862d",
-"namespaceredrawing_1_1components_1_1oak__substage.html"
+"namespaceredrawing_1_1components_1_1pc__viewer.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

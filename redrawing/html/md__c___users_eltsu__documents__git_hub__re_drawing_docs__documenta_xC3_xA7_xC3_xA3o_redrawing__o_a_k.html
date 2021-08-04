@@ -131,23 +131,23 @@ $(document).ready(function(){initNavTree('md__c___users_eltsu__documents__git_hu
 <div class="line">parte6 --- meth2</div>
 <div class="line">parte8 --- meth3</div>
 <div class="line">parte8 --- meth4</div>
-</div><!-- fragment --><h1><a class="anchor" id="autotoc_md4"></a>
+</div><!-- fragment --><h1><a class="anchor" id="autotoc_md3"></a>
 Substage methods</h1>
 <p>The OAK_Substage methods for manipulating the pipeline are:</p>
-<h2><a class="anchor" id="autotoc_md5"></a>
+<h2><a class="anchor" id="autotoc_md4"></a>
 Instantiate other nodes: createNodes(self, pipeline) : dict</h2>
 <p>Used for creating a customized node. Must return a dict with {"node_name":node}.</p>
-<h2><a class="anchor" id="autotoc_md6"></a>
+<h2><a class="anchor" id="autotoc_md5"></a>
 Link: link(self, nodes, rgb_out, left_out, right_out, depth_out) : dict</h2>
 <p>Used for linking nodes. Receives the complete nodes dict, with also the specific images out objects. This is done because some other substages may need a different image size, and the OAK_Stage automatically creates ImageManip nodes as needed. Other Substage can also modify the behavior of this substage, with this substage been linked to it instead of the OAK_Stage.</p>
 <p>In addition to creating internal links, you must also create input and output XLink, and must return a dict with: {"link_name":link} ("link_name" must be the same name as the stream name)</p>
-<h2><a class="anchor" id="autotoc_md7"></a>
+<h2><a class="anchor" id="autotoc_md6"></a>
 createOutputQueue(self, device) : dict</h2>
 <p>Create output queues needed by this substage. Receives the complete links dict, and must return a dict with {"queue_name":queue}</p>
-<h2><a class="anchor" id="autotoc_md8"></a>
+<h2><a class="anchor" id="autotoc_md7"></a>
 createInputQueue(self, device) : dict</h2>
 <p>Create input queues needed by this substage. Receives the complete links dict, and must return a dict with {"queue_name":queue}</p>
-<h1><a class="anchor" id="autotoc_md9"></a>
+<h1><a class="anchor" id="autotoc_md8"></a>
 Substage atributes</h1>
 <p>To use OAK resources, the stage needs to set some attributes:</p>
 <table class="markdownTable">
@@ -162,7 +162,7 @@ Substage atributes</h1>
 <tr class="markdownTableRowEven">
 <td class="markdownTableBodyNone">uses_depth  </td><td class="markdownTableBodyNone">If needs depth output  </td><td class="markdownTableBodyNone">True/False   </td></tr>
 </table>
-<h1><a class="anchor" id="autotoc_md10"></a>
+<h1><a class="anchor" id="autotoc_md9"></a>
 Context and configs</h1>
 <p>For changing the behaviour of the OAK_Stage, it also have the following configurations:</p>
 <table class="markdownTable">
@@ -210,10 +210,10 @@ Context and configs</h1>
 <tr class="markdownTableRowOdd">
 <td class="markdownTableBodyNone">"oak_stage"  </td><td class="markdownTableBodyNone">The oak_stage itself   </td></tr>
 </table>
-<h1><a class="anchor" id="autotoc_md11"></a>
+<h1><a class="anchor" id="autotoc_md10"></a>
 Other OAK_Stage methods</h1>
 <p>The OAK_Stage also have some other useful methods:</p>
-<h2><a class="anchor" id="autotoc_md12"></a>
+<h2><a class="anchor" id="autotoc_md11"></a>
 "get3DPosition(point_x, point_y, size)"</h2>
 <p>Computes the 3D position in meters of a point in the image. It receives the x and y positions of the point in the image, with also the size of the image where they are, [h,w]. </p>
 </div></div><!-- contents -->
