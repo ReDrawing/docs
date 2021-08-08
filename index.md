@@ -1,4 +1,4 @@
-# Projects
+# Project Repositories
 
 [Disc-Rabisco](https://github.com/ReDrawing/Rabisco): an interactive art installation that invites visitors to a creative and expressive experience through movement-based interactions.
 
